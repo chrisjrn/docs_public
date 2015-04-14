@@ -4,6 +4,12 @@
 * +61 417 323 163
 * http://chris.neugebauer.id.au
 
+=== Overview
+
+* Software engineer with experience in Mobile, as well as some client and server-side web infrastructure.
+* Open Source community engagement, with a focus on growing the Australian Python community, and on improving outreach and diversity at conferences.
+* Occasional presenter at Python and Open Source conferences around the world.
+
 
 === Current
 
