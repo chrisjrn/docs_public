@@ -1,14 +1,16 @@
 == Christopher Neugebauer
 
 * chrisjrn@gmail.com
+* Tw: @chrisjrn
 * +61 417 323 163
 * http://chris.neugebauer.id.au
 
 === Overview
 
-* Software engineer with experience in Mobile, as well as some client and server-side web infrastructure.
+* Software engineer with experience in Android, testing, as well as some client and server-side web infrastructure.
 * Open Source community engagement, with a focus on growing the Australian Python community, and on improving outreach and diversity at conferences.
 * Occasional presenter at Python and Open Source conferences around the world.
+* Requirement for work based in Australia (on-site or remote), with preference for Hobart; happy to travel frequently.
 
 
 === Current
@@ -28,7 +30,7 @@ _Hobart, Australia (Full-Time); October 2012-Present_
 _Hobart, Australia (Volunteer); March 2014-Present_
 
 * Formed and led team that successfully bid for Australasia's premier Free and Open Source Software conference.
-* Negotiated contracts with venue and accommodation suppliers.
+* Sourced quotations and negotiated contracts with venue and accommodation suppliers.
 * Managing volunteer team to plan and deliver 5-day event, with up to 600 attendees, in January 2017.
 
 
@@ -47,7 +49,7 @@ _Australia (Volunteer); January 2014-Present_
 
 _Hobart, Australia & Mountain View, California, USA (Contract); October 2010-September 2012_
 
-* Contract Android, and Web Back-End development for clients in Australia and overseas; notably the Android client for Meebo (acquired by Google).
+* Contract Android, and Web Back-End development for clients in Australia and overseas; notably the Android client for Meebo IM (acquired by Google).
 * Conference workshop presentation, and mobile development training.
 
 
@@ -56,7 +58,7 @@ _Hobart, Australia & Mountain View, California, USA (Contract); October 2010-Sep
 _Hobart, Australia (Volunteer); August 2011-July 2013
 
 * Public face, community and sponsor liaison for two conferences, helping to grow conference to in excess of 300 attendees.
-* Designed wide-reaching financial assistance scheme to improve outreach and opportunities for those traditionally unable to attend.
+* Designed and delivered wide-reaching financial assistance scheme to improve outreach and opportunities for those traditionally unable to attend.
 
 
 ==== Others
@@ -80,12 +82,13 @@ _February 2007-August 2010_
 
 === Publications and Presentations
 
-* Presentations at O'Reilly OSCON 2011-2015, PyCon Australia 2014, PyOhio 2014, Kiwi PyCon 2014, AUC /dev/world 2009-2014, OSDC 2011 (Co-Presenter), Linux.conf.au 2012 (Co-Presenter).
+* Presentations at O'Reilly OSCON 2011-2015, PyCon Australia 2014, PyOhio 2014, Kiwi PyCon 2014, AUC /dev/world 2009-2014, DroidCon India 2013, OSDC 2011 (Co-Presenter), Linux.conf.au 2012 (Co-Presenter).
 * Invited feature presenter at PyCon Canada 2013.
-* Co-Author of untitled Android design and development book (O'Reilly, future release)
+* Co-Author of untitled Android design and development book (O'Reilly, future release).
 
 
 === Awards and Recognition
 
-* Fellow, Python Software Foundation; April 2013 (as Elected Member)
-* University Medal in Science, Engineering and Technology, University of Tasmania; December 2010
+* Fellow, Python Software Foundation; April 2013 (as Elected Member).
+* University Medal in Science, Engineering and Technology, University of Tasmania; December 2010.
+* ACM South Pacific Regional Programming Contest, 3rd place (with team), 2008 and 2009.
