@@ -19,7 +19,7 @@
 
 _Hobart, Australia (Full-Time); October 2012-Present_
 
-* Developed Android document management client based on our C++ application core, including binding between Java user interface code and C++ infrastructure code using the Android native development kit.
+* Developed Android document management client based on a C++ application core, including binding between Java user interface code and C++ infrastructure code using the Android Native Development Kit.
 * Designed and and delivered automated testing plans for untested legacy Java server code, including substantial refactors of previously untested code.
 * Client-side HTML 5 development in TypeScript & JavaScript, suitable for embedding within an iPad app.
 * Other technologies encountered: Python, Groovy & Gradle, Geb/Webdriver, iOS (Objective-C & Swift).
