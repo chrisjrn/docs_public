@@ -75,7 +75,7 @@ _Hobart, Australia (Volunteer); August 2011-July 2013_
 
 _February 2007-August 2010_
 
-* First Class Honours in Computer Science; Major in Pure Mathematics and Computer Science.
+* First Class Honours in Computer Science; Majors in Pure Mathematics and Computer Science.
 * Graduated with University Medal, 2010.
 * ACM Intercollegiate Programming Contest World Finalist (with team), 2009.
 
