@@ -1,5 +1,6 @@
 ## Christopher Neugebauer
 
+* Hobart, Tasmania, Australia
 * chrisjrn@gmail.com
 * Tw: [@chrisjrn](https://twitter.com/chrisjrn)
 * +61 417 323 163 (Please contact by e-mail or Twitter first)
@@ -7,9 +8,17 @@
 
 ### Overview
 
-* Software engineer with experience in Android, automated testing, as well as some client and server-side web infrastructure.
+#### About Me
+
+* Software engineer, interested in Python; recent experience in Android, test design, mobile web, and server-side Java.
 * Open Source community engagement, with a focus on growing the Australian Python community, and on improving outreach and diversity at conferences.
 * Occasional presenter at Python and Open Source conferences around the world.
+
+
+#### What I'm looking for
+
+* Developer relations/evangelism: opportunities for conference speaking, and engagement online and in-person with developer communities.
+* Software engineering: Interested in Python, but will consider opportunities as they arise.
 * Requirement for work based in Australia (on-site or remote), with preference for Hobart; very happy to travel frequently.
 
 
