@@ -17,8 +17,8 @@
 
 #### What I'm looking for
 
-* Developer relations/evangelism: opportunities for conference speaking, and engagement online and in-person with developer communities.
-* Software engineering: Interested in Python, but will consider opportunities as they arise.
+* _Developer relations/evangelism_: opportunities for conference speaking, and engagement online and in-person with developer communities.
+* _Software engineering_: Interested in Python, but will consider opportunities as they arise.
 * Requirement for work based in Australia (on-site or remote), with preference for Hobart; very happy to travel frequently.
 
 
