@@ -1,11 +1,11 @@
-== Christopher Neugebauer
+## Christopher Neugebauer
 
 * chrisjrn@gmail.com
-* Tw: @chrisjrn
-* +61 417 323 163
+* Tw: [@chrisjrn](https://twitter.com/chrisjrn)
+* +61 417 323 163 (Please contact by e-mail or Twitter first)
 * http://chris.neugebauer.id.au
 
-=== Overview
+### Overview
 
 * Software engineer with experience in Android, testing, as well as some client and server-side web infrastructure.
 * Open Source community engagement, with a focus on growing the Australian Python community, and on improving outreach and diversity at conferences.
@@ -13,9 +13,9 @@
 * Requirement for work based in Australia (on-site or remote), with preference for Hobart; very happy to travel frequently.
 
 
-=== Current
+### Current
 
-==== Senior Software Developer, Asdeq Labs Pty Ltd
+#### Senior Software Developer, Asdeq Labs Pty Ltd
 
 _Hobart, Australia (Full-Time); October 2012-Present_
 
@@ -25,7 +25,7 @@ _Hobart, Australia (Full-Time); October 2012-Present_
 * Other technologies encountered: Python, Groovy & Gradle, Geb/Webdriver, iOS (Objective-C & Swift).
 
 
-==== Director, Linux.conf.au 2017
+#### Director, Linux.conf.au 2017
 
 _Hobart, Australia (Volunteer); March 2014-Present_
 
@@ -34,7 +34,7 @@ _Hobart, Australia (Volunteer); March 2014-Present_
 * Managing volunteer team to plan and deliver 5-day event, with up to 600 attendees, in January 2017.
 
 
-==== Ordinary Committee Member, Linux Australia
+#### Ordinary Committee Member, Linux Australia
 
 _Australia (Volunteer); January 2014-Present_
 
@@ -43,25 +43,25 @@ _Australia (Volunteer); January 2014-Present_
 * Developed policy for governance and oversight of conferences run under the organisation's auspices.
 
 
-=== Past
+### Past
 
-==== Semi-Professional Nerd, Secret Lab Pty Ltd
+#### Semi-Professional Nerd, Secret Lab Pty Ltd
 
 _Hobart, Australia & Mountain View, California, USA (Contract); October 2010-September 2012_
 
-* Contract Android, and Web Back-End development for clients in Australia and overseas; notably the Android client for Meebo IM (acquired by Google).
+* Contract Android, and Web back-end development for clients in Australia and overseas; notably the Android client for Meebo IM (acquired by Google).
 * Conference workshop presentation, and mobile development training.
 
 
-==== Co-Director, PyCon Australia
+#### Co-Director, PyCon Australia
 
-_Hobart, Australia (Volunteer); August 2011-July 2013
+_Hobart, Australia (Volunteer); August 2011-July 2013_
 
 * Public face, community and sponsor liaison for two conferences, helping to grow conference to in excess of 300 attendees.
 * Designed and delivered wide-reaching financial assistance scheme to improve outreach and opportunities for those traditionally unable to attend.
 
 
-==== Others
+#### Others
 
 * Itinerant teaching assistant (Casual), University of Tasmania; February-November 2010
 * President (Volunteer), University of Tasmania Computing Society; December 2008-March 2011
@@ -69,9 +69,9 @@ _Hobart, Australia (Volunteer); August 2011-July 2013
 * Miniconf organiser (Volunteer), Linux.conf.au 2010-2014
 
 
-=== Education
+### Education
 
-==== Bachelor of Science with Honours, University of Tasmania
+#### Bachelor of Science with Honours, University of Tasmania
 
 _February 2007-August 2010_
 
@@ -80,14 +80,14 @@ _February 2007-August 2010_
 * ACM Intercollegiate Programming Contest World Finalist (with team), 2009.
 
 
-=== Publications and Presentations
+### Publications and Presentations
 
 * Presentations at O'Reilly OSCON 2011-2015, PyCon Australia 2014, PyOhio 2014, Kiwi PyCon 2014, AUC /dev/world 2009-2014, DroidCon India 2013, OSDC 2011 (Co-Presenter), Linux.conf.au 2012 (Co-Presenter).
 * Invited feature presenter at PyCon Canada 2013.
 * Co-Author of untitled Android design and development book (O'Reilly, future release).
 
 
-=== Awards and Recognition
+### Awards and Recognition
 
 * Fellow, Python Software Foundation; April 2013 (as Elected Member).
 * University Medal in Science, Engineering and Technology, University of Tasmania; December 2010.
