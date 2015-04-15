@@ -7,7 +7,7 @@
 
 ### Overview
 
-* Software engineer with experience in Android, testing, as well as some client and server-side web infrastructure.
+* Software engineer with experience in Android, automated testing, as well as some client and server-side web infrastructure.
 * Open Source community engagement, with a focus on growing the Australian Python community, and on improving outreach and diversity at conferences.
 * Occasional presenter at Python and Open Source conferences around the world.
 * Requirement for work based in Australia (on-site or remote), with preference for Hobart; very happy to travel frequently.
