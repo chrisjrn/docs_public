@@ -1,10 +1,10 @@
 ## Christopher Neugebauer
 
 * Hobart, Tasmania, Australia
-* chrisjrn@gmail.com
+* _@chrisjrn.com
 * Tw: [@chrisjrn](https://twitter.com/chrisjrn)
 * +61 417 323 163 (Please contact by e-mail or Twitter first)
-* http://chris.neugebauer.id.au
+* http://chrisjrn.com
 
 ### Overview
 
