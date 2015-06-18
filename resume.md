@@ -45,7 +45,7 @@ _Hobart, Australia (Volunteer); March 2014-Present_
 
 #### Outreach and Sponsorship Chair, PyCon Australia
 
-_January 2014-Present (Volunteer)_
+_Australia (Volunteer); January 2014-Present_
 
 * Handling sponsor and vendor relationships for Australia's premier Python developer event, negotiating and managing upwards of $60k in sponsor revenue annually. This represents approximately 35% of total conference revenue.
 * Managing the conference's financial assistance programme, providing grants to enable deserving people, from diverse backgrounds, to attend PyCon Australia. This programme represents 10% of the conference's budget year on year.
