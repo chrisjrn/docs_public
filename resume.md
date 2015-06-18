@@ -43,13 +43,13 @@ _Hobart, Australia (Volunteer); March 2014-Present_
 * Managing volunteer team to plan and deliver 5-day event, with up to 600 attendees, in January 2017.
 
 
-#### Ordinary Committee Member, Linux Australia
+#### Outreach and Sponsorship Chair, PyCon Australia
 
-_Australia (Volunteer); January 2014-Present_
+_January 2014-Present_
 
-* Board Member of non-profit organisation that oversees the growth of the Australian Open Source community.
-* Liaison between board and organisers of PyCon Australia.
-* Developed policy for governance and oversight of conferences run under the organisation's auspices.
+* Handling sponsor and vendor relationships for Australia's premier Python developer event, negotiating and managing upwards of $60k in sponsor revenue annually. This represents approximately 35% of total conference revenue.
+* Managing the conference's financial assistance programme, providing grants to enable deserving people, from diverse backgrounds, to attend PyCon Australia. This programme represents 10% of the conference's budget year on year.
+
 
 
 ### Past
@@ -76,6 +76,18 @@ _Hobart, Australia (Volunteer); August 2011-July 2013_
 * President (Volunteer), University of Tasmania Computing Society; December 2008-March 2011
 * Software Engineering Intern (Full-Time), Google Australia; December 2009-February 2010
 * Miniconf organiser (Volunteer), Linux.conf.au 2010-2014
+
+
+### Volunteer Roles
+
+#### Ordinary Committee Member, Linux Australia
+
+_Australia (Volunteer); January 2014-Present_
+
+* Board Member of non-profit organisation that oversees the growth of the Australian Open Source community.
+* Liaison between board and organisers of PyCon Australia.
+* Developed policy for governance and oversight of conferences run under the organisation's auspices.
+
 
 
 ### Education
