@@ -99,13 +99,21 @@ _February 2007-August 2010_
 
 ### Publications and Presentations
 
+#### Selected Talks
+* _Python's New Type Hints in Action… In JavaScript!_ – PyCon Australia 2015, Kiwi PyCon 2015, PyCon Canada 2015
+* _Welcoming Everyone: Five Years of Outreach and Inclusion Programmes at PyCon Australia_ – FOSSETCON 2015
+* _Test-Driven Repair_ – OSCON 2015, PyCon Australia 2011-2015
+* _Mobile Design and Development Tutorial_ with various titles – OSCON 2011-2015, with Paris Buttfield-Addison and Jonathon Manning
+
+#### Conferences Attended
 * O'Reilly OSCON 2011-2015
 * linux.conf.au 2012
 * PyCon Australia 2014-2015
 * PyCon Canada 2013 (invited feature presenter) and 2015
 * PyOhio 2014
 * Kiwi PyCon 2014-2015
-* OSDC 2011 and 2015
+* Open Source Developers Conference Australia 2011 and 2015
+* FOSSETCON 2015
 * AUC /dev/world 2009-2015
 * DroidCon India 2013
 
