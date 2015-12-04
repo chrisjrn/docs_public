@@ -1,7 +1,7 @@
 ## Christopher Neugebauer
 
 * Hobart, Tasmania, Australia
-* _@chrisjrn.com
+* mail@chrisjrn.com
 * Tw: [@chrisjrn](https://twitter.com/chrisjrn)
 * +61 417 323 163 (Please contact by e-mail or Twitter first)
 * http://chrisjrn.com
@@ -22,16 +22,14 @@
 * Requirement for work based in Australia (on-site or remote), with preference for Hobart; very happy to travel frequently.
 
 
-### Current
-
 #### Senior Software Developer, Asdeq Labs Pty Ltd
 
-_Hobart, Australia (Full-Time); October 2012-Present_
+_Hobart, Australia (Full-Time); October 2012-October 2015_
 
 * Developed Android document management client based on a C++ application core, including binding between Java user interface code and C++ infrastructure code using the Android Native Development Kit.
 * Designed and and delivered automated testing plans for untested legacy Java server code, including substantial refactors of previously untested code.
 * Client-side HTML 5 development in TypeScript & JavaScript, suitable for embedding within an iPad app.
-* Other technologies encountered: Python, Groovy & Gradle, Geb/Webdriver, iOS (Objective-C & Swift).
+* Other technologies encountered: Python, Groovy & Gradle, Geb/Webdriver, Lucene, iOS (Objective-C & Swift).
 
 
 #### Director, Linux.conf.au 2017
@@ -51,8 +49,6 @@ _Australia (Volunteer); January 2014-Present_
 * Managing the conference's financial assistance programme, providing grants to enable deserving people, from diverse backgrounds, to attend PyCon Australia. This programme represents 10% of the conference's budget year on year.
 
 
-
-### Past
 
 #### Semi-Professional Nerd, Secret Lab Pty Ltd
 
@@ -103,9 +99,15 @@ _February 2007-August 2010_
 
 ### Publications and Presentations
 
-* Presentations at O'Reilly OSCON 2011-2015, PyCon Australia 2014, PyOhio 2014, Kiwi PyCon 2014, AUC /dev/world 2009-2014, DroidCon India 2013, OSDC 2011 (Co-Presenter), Linux.conf.au 2012 (Co-Presenter).
-* Invited feature presenter at PyCon Canada 2013.
-* Co-Author of untitled Android design and development book (O'Reilly, future release).
+* O'Reilly OSCON 2011-2015
+* linux.conf.au 2012
+* PyCon Australia 2014-2015
+* PyCon Canada 2013 (invited feature presenter) and 2015
+* PyOhio 2014
+* Kiwi PyCon 2014-2015
+* OSDC 2011 and 2015
+* AUC /dev/world 2009-2015
+* DroidCon India 2013
 
 
 ### Awards and Recognition
